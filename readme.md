@@ -2,7 +2,7 @@
 
 Like its parent theme, <a href="http://www.themehybrid.com/saga/">Saga</a>, Yarn is specifically tailored to writers, focusing on the display of the written word, using big, bold images to draw your reader in. Its pink and brown palette can be easily changed to meet your preferences. Customize the background and header colors and images to personalize the theme for your site.
 
-A live demo of this theme is available at: <a href="http://www.krishockerdesign.com/yarn/">www.krishocker.com/yarn/</a>.
+A live demo of this theme is available at: <a href="http://www.krishockerdesign.com/yarn/">www.krishockerdesign.com/yarn/</a>.
 
 ## Recommended Plugins
 
