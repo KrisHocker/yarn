@@ -1,6 +1,6 @@
 # Yarn
 
-Like its parent theme, <a href="http://www.themehybrid.com/saga/">Saga</a>, Yarn is specifically tailored to writers, focusing on the display of the written word, using big, bold images to draw your reader in. Its pink and brown palette can be easily changed to meet your preferences. Customize the background and header colors and images to personalize the theme for your site. 
+Like its parent theme, <a href="http://www.themehybrid.com/saga/">Saga</a>, Yarn is specifically tailored to writers, focusing on the display of the written word, using big, bold images to draw your reader in. Its pink and brown palette can be easily changed to meet your preferences. Customize the background and header colors and images to personalize the theme for your site.
 
 A live demo of this theme is available at: <a href="http://www.krishockerdesign.com/yarn/">www.krishocker.com/yarn/</a>.
 
@@ -15,6 +15,11 @@ This theme uses the [Subtitles Plugin](http://wordpress.org/plugins/subtitles) t
 2014 &copy; [Kris Hocker](http://www.krishockerdesign.com).
 
 ## Changelog
+
+## Version 1.0.1
+
+* Changed @import in editor-style to import style.css
+* Moved CSS for color of entry-subtitle link hover on index pages to style.css
 
 ### Version 1.0.0
 
